@@ -3,7 +3,7 @@
 <!--
 **prami1806/prami1806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am Pramita, a sophomore in IIT Kharagpur majoring in Electronics and Communication Engineering.
+I am Pramita, a student in IIT Kharagpur majoring in Electronics and Communication Engineering.
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
